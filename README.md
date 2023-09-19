@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @empathey
+- 👀 I’m interested in ... react and react native
+- 🌱 I’m currently learning ... computer science
+- 💞️ I’m looking to collaborate on ... anything
+- 📫 How to reach me ... cszewczul@mail.roosevelt.edu
